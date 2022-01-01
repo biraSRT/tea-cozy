@@ -7,3 +7,6 @@ Codecademy
 - HTML
 - Git and Github
 
+#### Checkout the project on github pages
+[project](https://birasrt.github.io/tea-cozy/)
+

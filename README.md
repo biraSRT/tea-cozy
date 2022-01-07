@@ -1,4 +1,4 @@
-# Mixed Messages
+# Tea Cozy
 Cool practice project where I build a website for a cafe using flexbox.
 ## Inspiration
 Codecademy 
